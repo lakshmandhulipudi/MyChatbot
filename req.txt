@@ -1,0 +1,8 @@
+streamlit>=1.10.0  # Ensure you have a recent version for set_page_config
+google-generativeai
+pymupdf
+sentence-transformers
+faiss-cpu
+numpy
+python-dotenv
+langchain
